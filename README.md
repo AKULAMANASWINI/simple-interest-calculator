@@ -1,3 +1,3 @@
 # simple-interest-calculator
 A simple script to calculate simple interest
-calculator
+calculators simple interest
